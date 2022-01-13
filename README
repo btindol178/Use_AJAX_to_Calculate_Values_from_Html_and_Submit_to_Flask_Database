@@ -1,0 +1,18 @@
+README
+This app is an example of how to grab html inputs then Manipulate from AJAX then send to flask Database
+
+
+/templates
+    |
+    |---Index.html
+    |---Indexajax.html
+  
+/static
+    | --- my-style.css
+    | --- my-styleajax.css
+    | --- qtc-calc.js
+    | --- qtc-calcajax.js
+        
+main.py
+mainAJAX.py
+        
